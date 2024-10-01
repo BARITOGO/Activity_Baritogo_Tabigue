@@ -12,7 +12,8 @@ public class Activity_Baritogo_Tabigue_Lustre {
 
    
     public static void main(String[] args) {
-        System.out.println("Iyot");
+        System.out.println("Hello");
+        System.out.println("World");
     }
     
 }
